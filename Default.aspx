@@ -1,7 +1,7 @@
 ﻿<%@ Page Title="" Language="VB" MasterPageFile="~/masterpages/standard.master" AutoEventWireup="false" CodeFile="Default.aspx.vb" Inherits="_Default" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="cphMeta" Runat="Server">
-    <title>Home Page</title>
+    <title>Seville Farms</title>
     <meta name="description" content="">
 </asp:Content>
 
