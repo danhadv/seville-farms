@@ -1,0 +1,35 @@
+﻿#job-wrapper {
+    .col-left-jobs {
+        @include span(45%);
+        padding: 2em;
+    }
+    .col-right-jobs {
+        @include span(55%);
+        padding: 2em;
+    }
+    #apply-button {
+        background-color: $purple;
+        border: 1px solid #000;
+        border-radius: 12px;
+        box-shadow: #808080 5px 5px 5px;
+        height: 40px;
+        margin: auto;
+        opacity: .6;
+        padding: 6px;
+        text-align: center;
+        width: 125px;
+        .anchor-class{
+            color: white;
+            opacity: 1;
+        }
+    }
+    #below-apply-button {
+        text-align: center;
+        width: 100%;
+    }
+}
+
+.content {
+    float:left;
+    display: inline;
+}

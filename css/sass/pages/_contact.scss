@@ -1,0 +1,10 @@
+﻿#contact-wrapper {
+    .col-left-contact {
+        @include span(40%);
+        padding: 5em 2em;
+    }
+    .col-right-contact {
+        @include span(55%);
+        padding-top: 3em;
+    }
+}

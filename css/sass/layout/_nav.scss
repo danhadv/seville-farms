@@ -1,0 +1,24 @@
+﻿// ---
+// Nav
+// ---
+
+nav {
+    @extend %text-transform-uppercase;
+    @extend .text-small;
+    font-family: 'GothamMedium',sans-serif;
+    font-size: 90%;
+    left: 281px;
+    position: absolute;  
+}
+
+#nav-main {
+        ul {
+           list-style: none;
+           li {
+               display: inline-block;
+               line-height: 22px;
+               padding: 10px;
+               text-align: center;
+           }
+       }
+}

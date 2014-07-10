@@ -1,0 +1,48 @@
+﻿/*!
+ * CSS for website
+ * @author: [name] [(email/web site)]
+ */
+
+
+// -------------------------------------------------
+// Preferred Styling
+//
+// id/class/tag { attributes in alphabetical order }
+// -------------------------------------------------
+
+
+// --------------------
+// Compass/SASS Imports
+// --------------------
+@import "compass";
+@import "compass-placeholders";
+@import "susy";
+
+// Vendor Files
+@import "vendor/all";
+
+// Utilities
+@import "helpers/helpers";
+@import "helpers/mixins";
+
+// Base Stuff -- Variables and Typography
+@import "base/variables";
+@import "base/mediaquery";
+@import "base/typography";
+@import "base/global";
+
+// Layout
+@import "layout/susy";
+@import "layout/header";
+@import "layout/nav";
+@import "layout/footer";
+
+// Components
+@import "components/buttons";
+@import "components/forms";
+
+// Page Specific Styles
+ @import "pages/home";
+ @import "pages/facilities";
+ @import "pages/contact";
+ @import "pages/jobs";

@@ -1,0 +1,18 @@
+﻿#home-wrapper {
+    .col-left {
+        @include span(45%);
+        padding: 2em;
+    }
+    .col-right {
+        @include span(55%);
+       // padding: 2em;
+    }
+}
+
+.gotham {
+    @extend .text-uppercase;
+    font-family: 'GothamMedium', Sans-Serif;
+    font-size: 90%;
+    padding-top: 1em;
+}
+

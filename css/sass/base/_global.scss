@@ -1,0 +1,75 @@
+﻿// -------------------------------------------
+// Border Box - Padding not included in width.
+// -------------------------------------------
+* { @include box-sizing(border-box); }
+
+
+// -------------
+// Global Styles
+// -------------
+html { 
+	// Always show vertical scroll bar in window
+	overflow-y: scroll;
+
+	// Font
+	font-size: $base-font-size; 
+	line-height: $base-line-height;
+
+	// Prevent iOS, WinMobile from adjusting font size
+	-webkit-text-size-adjust: none;
+	-ms-text-size-adjust: none;
+} 
+
+// ------------------
+// Global body styles
+// ------------------
+body {
+	// Color
+	background: $beige url(/img/body-bg.jpg) repeat-x top;
+	color: $body-color;
+
+	// Font
+	font-family: $font-primary; 
+    font-size: 90%;
+	text-align: left;
+    line-height: 1.4;	
+}
+
+
+// ---------
+// Selection
+// ---------
+::-moz-selection{ background: #b3d4fc; color: #fff; }
+::selection{ background: #b3d4fc; color: #fff; }
+
+
+// -------------------
+// Browse Happy prompt
+// -------------------
+.browsehappy {
+	margin: 0.2em 0;
+	background: #ccc;
+	color: #000;
+	padding: 0.2em 0;
+}
+
+#page-wrapper {
+    padding: 93px 0 0;
+    position: relative;
+    margin: 0 auto;
+    width: 700px;
+}
+
+#content-wrapper {
+    background: url(/img/content-bg.jpg) no-repeat;
+    border: 10px solid $purple;
+    border-left: 0;
+    border-right: 0;
+    height: 36em;
+    padding: 0;
+    position: relative;   
+}
+
+.page-content {
+    margin: 85px 0 0;
+}

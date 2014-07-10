@@ -1,0 +1,32 @@
+﻿#facilities-wrapper {
+    .col-left-facilities {
+        @include span(30%);
+        padding-top: 5em;
+    }
+    .col-right-facilities {
+        @include span(70%);
+        padding: 3em;
+    }
+    .facilities-margin {
+        margin: 0 0 10px 0;
+     }
+    #facilities-link {
+        //width: 50%;
+    }
+}
+
+.content {
+    float: left;
+    display: block;
+}
+
+#facilities-link .content:first-child {
+    border-right: 1px solid $purple;
+    padding: 0 5% 0 0; 
+    width: 65%;
+}
+
+#facilities-link .content {
+    padding-left: 5%;
+    width: 35%;
+}
