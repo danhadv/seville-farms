@@ -1,15 +1,17 @@
 ﻿<%@ Page Title="" Language="VB" MasterPageFile="~/masterpages/standard.master" AutoEventWireup="false" CodeFile="Default.aspx.vb" Inherits="facilities_Default" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="cphMeta" Runat="Server">
+    <title>Our Facilities</title>
+    <meta name="description" content="Seville Farms has a number of facilities across Texas including Mansfield, Tyler, Schulenburg, and Los Fresnos.">
 </asp:Content>
+
 <asp:Content ID="Content2" ContentPlaceHolderID="cphHead" Runat="Server">
 </asp:Content>
+
 <asp:Content ID="Content3" ContentPlaceHolderID="cphContent" Runat="Server">
     <div id="facilities-wrapper" class="page-content">
         <div class="col-left-facilities">
-            <p>
-            <img src="/img/facilities/map.png" />
-            </p>
+            <img src="/img/facilities/map.png" width="212" height="184" alt="Location of Seville Farms facilities on Texas map." />
         </div>
         <div class="col-right-facilities">
             <p class="gotham">Seville Farms Facilities</p>
@@ -26,8 +28,8 @@
             </div> 
         </div>
     </div>
-    <img src="/img/facilities/facility-pics.png" />
-</asp:Content>
-<asp:Content ID="Content4" ContentPlaceHolderID="cphJS" Runat="Server">
+    <img src="/img/facilities/facility-pics.png" width="701" height="188" alt="Photos of our facilities." />
 </asp:Content>
 
+<asp:Content ID="Content4" ContentPlaceHolderID="cphJS" Runat="Server">
+</asp:Content>

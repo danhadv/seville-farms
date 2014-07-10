@@ -10,23 +10,17 @@
     .facilities-margin {
         margin: 0 0 10px 0;
      }
-    #facilities-link {
-        //width: 50%;
+}
+
+#facilities-link {
+    .content {
+        padding-left: 5%;
+        width: 35%;
+
+        &:first-child {
+            border-right: 1px solid $purple;
+            padding: 0 5% 0 0; 
+            width: 65%;
+        }
     }
-}
-
-.content {
-    float: left;
-    display: block;
-}
-
-#facilities-link .content:first-child {
-    border-right: 1px solid $purple;
-    padding: 0 5% 0 0; 
-    width: 65%;
-}
-
-#facilities-link .content {
-    padding-left: 5%;
-    width: 35%;
 }
