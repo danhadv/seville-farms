@@ -1,5 +1,5 @@
-﻿#home-wrapper {
-    .col-left {
+﻿.page-row {
+     .col-left {
         @include span(45%);
         padding: 2em;
     }
@@ -7,4 +7,9 @@
         @include span(55%);
        // padding: 2em;
     }
+}
+
+.content {
+    @extend %display-inline-block;
+    @extend %float-left;
 }

@@ -1,9 +1,9 @@
 ﻿#contact-wrapper {
-    .col-left-contact {
+    .col-left {
         @include span(40%);
         padding: 5em 2em;
     }
-    .col-right-contact {
+    .col-right {
         @include span(55%);
         padding-top: 3em;
     }

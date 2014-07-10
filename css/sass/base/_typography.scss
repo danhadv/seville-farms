@@ -39,6 +39,12 @@
 .text-smaller { font-size: .75em; }
 .text-xsmall { font-size: .6em; }
 .text-uppercase { @extend %text-transform-uppercase }
+.gotham {
+    @extend .text-uppercase;
+    font-family: 'GothamMedium', Sans-Serif;
+    font-size: 90%;
+    padding-top: 1em;
+}
 
 
 // -------

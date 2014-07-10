@@ -1,8 +1,8 @@
 ﻿<%@ Page Title="" Language="VB" MasterPageFile="~/masterpages/standard.master" AutoEventWireup="false" CodeFile="Default.aspx.vb" Inherits="contact_Default" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="cphMeta" Runat="Server">
-    <title>Contact Page</title>
-    <meta name="description" content="">
+    <title>Contact Seville Farms</title>
+    <meta name="description" content="Contact us at any of our facilities in Texas.">
 </asp:Content>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="cphHead" Runat="Server">
@@ -10,29 +10,27 @@
 
 <asp:Content ID="Content3" ContentPlaceHolderID="cphContent" Runat="Server">
    <div id="contact-wrapper" class="page-content">
-       <div class="col-left-contact">
-           <p class="gotham">
-               Contact us at one of our four facilities in Texas.
-           </p>
+       <div class="col-left">
+           <p class="gotham">Contact us at one of our four facilities in Texas.</p>
            <p>
-                <strong>MANSFIELD</strong> - 000.000.0000<br />
+                <strong>MANSFIELD</strong> - <a href="tel:000.000.0000">000.000.0000</a><br />
                 <a href="mailto:email@sevillefarms.com">email@sevillefarms.com</a>
             </p>
             <p>
-                <strong>TYLER</strong> - 000.000.0000<br />
+                <strong>TYLER</strong> - <a href="tel:000.000.0000">000.000.0000</a><br />
                 <a href="mailto:email@sevillefarms.com">email@sevillefarms.com</a>
             </p>
             <p>
-                <strong>SCHULENBURG</strong> - 000.000.0000<br />
+                <strong>SCHULENBURG</strong> - <a href="tel:000.000.0000">000.000.0000</a><br />
                 <a href="mailto:email@sevillefarms.com">email@sevillefarms.com</a>
             </p>
             <p>
-                <strong>LOS FRESNOS</strong> - 000.000.0000<br />
+                <strong>LOS FRESNOS</strong> - <a href="tel:000.000.0000">000.000.0000</a><br />
                 <a href="mailto:email@sevillefarms.com">email@sevillefarms.com</a>
             </p>
         </div>
-       <div class="col-right-contact">
-           <img src="/img/contact/map.png" />
+       <div class="col-right">
+           <img src="/img/contact/map.png" width="433" height="324" alt="Map of Seville Farms facilites." />
        </div>
    </div>
 </asp:Content>
