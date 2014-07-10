@@ -25,8 +25,8 @@
                 <a href="mailto:nengel@sevillefarms.com">email@sevillefarms.com</a>
             </p>
             <p>
-                <strong>LOS FRESNOS</strong> - <a href="tel:000.000.0000">000.000.0000</a><br />
-                <a href="mailto:email@sevillefarms.com">email@sevillefarms.com</a>
+                <strong>Los Fresnos- Gary Brentlinger</strong> - <a href="tel:817-350-3309">817-350-3309</a><br />
+                <a href="mailto:GBrentlinge@sevillefarms.com">email@sevillefarms.com</a>
             </p>
         </div>
        <div class="col-right">
