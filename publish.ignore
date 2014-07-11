@@ -9,7 +9,7 @@ node_modules/
 .bowerrc
 .gitignore
 bower.json
-Grunftile.js
+Gruntfile.js
 package.json
 packages.config
 publish.ignore

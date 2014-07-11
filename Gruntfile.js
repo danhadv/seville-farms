@@ -169,7 +169,7 @@ module.exports = function( grunt ) {
     grunt.loadNpmTasks( 'grunt-contrib-concat' );
 
     // Load Imagemin plugin task
-    //grunt.loadNpmTasks( 'grunt-contrib-imagemin' );
+    grunt.loadNpmTasks( 'grunt-contrib-imagemin' );
 
     // Load JSHint plugin task
     grunt.loadNpmTasks( 'grunt-contrib-jshint' );
@@ -200,7 +200,7 @@ module.exports = function( grunt ) {
 
     // Img Only Build task
     // Optimize images for production
-    //grunt.registerTask( 'img', ['imagemin'] );
+    grunt.registerTask( 'img', ['imagemin'] );
 
     // WebP Only taks
     grunt.registerTask( 'imgwebp', ['webp'] );
