@@ -10,23 +10,31 @@
 
 <asp:Content ID="Content3" ContentPlaceHolderID="cphContent" Runat="Server">
    <div class="page-content page-row">
-       <div class="col-left">
+       <div class="col-left" style="font-size: .85em;">
            <p class="gotham">Contact us at one of our four facilities in Texas.</p>
            <p>
-                <strong>Mansfield- Brenda Horton</strong> - <a href="tel:817-276-6603">817-276-6603</a><br />
-                <a href="mailto:bhorton@sevillefarms.com">email@sevillefarms.com</a>
+                <strong>Mansfield-<br /> 
+                <i class="fa fa-user"></i> Brenda Horton<br /></strong>
+                <i class="fa fa-phone"></i> <a href="tel:817-276-6603">817-276-6603</a><br />
+                <i class="fa fa-envelope"></i><a href="mailto:bhorton@sevillefarms.com">email@sevillefarms.com</a>
             </p>
             <p>
-                <strong>Tyler- Connie Winters</strong> - <a href="tel:817-276-6641">817-276-6641 (Office)</a><br />
-                <a href="mailto:cwinter@sevillefarms.com">email@sevillefarms.com</a>
+                <strong>Tyler-<br />
+                <i class="fa fa-user"></i>Connie Winters<br /></strong>
+                <i class="fa fa-phone"></i><a href="tel:817-276-6641">817-276-6641 (Office)</a><br />
+                <i class="fa fa-envelope"></i><a href="mailto:cwinter@sevillefarms.com">email@sevillefarms.com</a>
             </p>
             <p>
-                <strong>Schulenburg- Nikki Engel</strong> - <a href="tel:817-276-6651">817-276-6651</a><br />
-                <a href="mailto:nengel@sevillefarms.com">email@sevillefarms.com</a>
+                <strong>Schulenburg-<br />
+                <i class="fa fa-user"></i> Engel<br /></strong>
+                <i class="fa fa-phone"></i><a href="tel:817-276-6651">817-276-6651</a><br />
+                <i class="fa fa-envelope"></i><a href="mailto:nengel@sevillefarms.com">email@sevillefarms.com</a>
             </p>
             <p>
-                <strong>Los Fresnos- Gary Brentlinger</strong> - <a href="tel:817-350-3309">817-350-3309</a><br />
-                <a href="mailto:GBrentlinge@sevillefarms.com">email@sevillefarms.com</a>
+                <strong>Los Fresnos-<br />
+                <i class="fa fa-user"></i> Gary Brentlinger<br /></strong>
+                <i class="fa fa-phone"></i><a href="tel:817-350-3309">817-350-3309</a><br />
+                <i class="fa fa-envelope"></i><a href="mailto:GBrentlinge@sevillefarms.com">email@sevillefarms.com</a>
             </p>
         </div>
        <div class="col-right">
