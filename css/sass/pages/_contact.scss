@@ -1,10 +1,14 @@
-﻿#contact-wrapper {
-    .col-left {
-        @include span(40%);
-        padding: 5em 2em;
-    }
-    .col-right {
-        @include span(55%);
-        padding-top: 3em;
-    }
+﻿
+.col-left {
+    @include span(40%);
+    padding: 5em 2em;
+}
+.col-right {
+    @include span(55%);
+    padding-top: 3em;
+}
+
+.contact-facility-font {
+    @extend %text-decoration-underline;
+    font-size: 1.3em;
 }
