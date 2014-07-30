@@ -26,15 +26,15 @@
             </p>
             <p>
                 <strong class="contact-facility-font">Schulenburg<br /></strong>
-                <strong><i class="fa fa-user"></i> Engel<br /></strong>
+                <strong><i class="fa fa-user"></i>Nikki Engel<br /></strong>
                 <i class="fa fa-phone"></i><a href="tel:817-276-6651">817-276-6651</a><br />
-                <i class="fa fa-envelope"></i><a href="mailto:nengel@sevillefarms.com">nenge@sevillefarms.com</a>
+                <i class="fa fa-envelope"></i><a href="mailto:nengel@sevillefarms.com">nengel@sevillefarms.com</a>
             </p>
             <p>
                 <strong class="contact-facility-font">Los Fresnos<br /></strong>
                 <strong><i class="fa fa-user"></i> Gary Brentlinger<br /></strong>
                 <i class="fa fa-phone"></i><a href="tel:817-276-6662">817-276-6662</a><br />
-                <i class="fa fa-envelope"></i><a href="mailto:GBrentlinge@sevillefarms.com">gbrentlinge@sevillefarms.com</a>
+                <i class="fa fa-envelope"></i><a href="mailto:gbrentlinger@sevillefarms.com">gbrentlinger@sevillefarms.com</a>
             </p>
         </div>
        <div class="col-right">
