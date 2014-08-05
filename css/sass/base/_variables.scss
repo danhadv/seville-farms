@@ -53,11 +53,12 @@ $purple:		#7a43b6;
 
 // Project Specific Colors
 $beige:         #faf1e0;
+$hillister-red: #e41b23;
 
 // -----------
 // Body Styles
 // -----------
-$body-background:	$beige;
+$body-background:	$white;
 $body-color:		$darker-gray;
 
 
@@ -65,7 +66,7 @@ $body-color:		$darker-gray;
 // Links
 // -----
 $link-color:		#000;
-$link-color-hover:	#661f8a;
+$link-color-hover:	$hillister-red;
 
 
 // -------

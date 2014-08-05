@@ -1,7 +1,7 @@
 ﻿<%@ Page Title="" Language="VB" MasterPageFile="~/masterpages/standard.master" AutoEventWireup="false" CodeFile="Default.aspx.vb" Inherits="_Default" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="cphMeta" Runat="Server">
-    <title>Seville Farms</title>
+    <title>Hillister</title>
     <meta name="description" content="Growing your garden center starts with hiring the best seed in the business.">
 </asp:Content>
 
@@ -19,7 +19,7 @@
             </p>
         </div>
         <div class="col-right">
-            <img src="/img/home/photos.png" width="369" height="310" alt="Facility Photos" />
+            <img src="/img/home/hillister-home.v1.jpg" width="249" height="217" alt="Facility Photos" />
         </div>
     </div>
 </asp:Content>

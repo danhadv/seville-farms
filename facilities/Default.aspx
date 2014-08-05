@@ -11,7 +11,7 @@
 <asp:Content ID="Content3" ContentPlaceHolderID="cphContent" Runat="Server">
     <div id="facilities-wrapper" class="page-content">
         <div class="col-left-facilities">
-            <img src="/img/facilities/map.png" width="212" height="184" alt="Location of Seville Farms facilities on Texas map." />
+            <img src="/img/home/hillister-home.v1.jpg" width="249" height="217" alt="Location of Seville Farms facilities on Texas map." />
         </div>
         <div class="col-right-facilities">
             <p class="gotham">Seville Farms Facilities</p>
@@ -20,10 +20,7 @@
                     <p>Growing products for the entire state of Texas requires facilities in each of the different temperature zones.  Also growing the product close to your stores reduces the impact of freight on your costs.  With our 4 facilities accross Texas we can grow product in Texas for Texas no matter where your store is located!</p>
                 </div>
                 <div class="content" >
-                    Mansfield, TX<br />
-                    Tyler, TX<br />
-                    Schulenburg, TX<br />
-                    Los Fresnos, TX
+                    
                 </div>
             </div> 
         </div>
