@@ -32,9 +32,9 @@
             </p>
             <p>
                 <strong class="contact-facility-font">Los Fresnos<br /></strong>
-                <strong><i class="fa fa-user"></i> Gary Brentlinger<br /></strong>
-                <i class="fa fa-phone"></i><a href="tel:817-276-6662">817-276-6662</a><br />
-                <i class="fa fa-envelope"></i><a href="mailto:gbrentlinger@sevillefarms.com">gbrentlinger@sevillefarms.com</a>
+                <strong><i class="fa fa-user"></i>Maria Munoz<br /></strong>
+                <i class="fa fa-phone"></i><a href="tel:817-276-6660">817-276-6660</a><br />
+                <i class="fa fa-envelope"></i><a href="mailto:mmunoz@sevillefarms.com">mmunoz@sevillefarms.com</a>
             </p>
         </div>
        <div class="col-right">
